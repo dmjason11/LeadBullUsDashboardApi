@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "LeadbullUsDashboard\Api.csproj", "{9F2DD24B-6DFE-4BC8-8C98-202E47345DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{D9B62DAD-FCBD-43A7-8FA1-EA81AFAFFEEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{05D6412F-0126-4898-A7E5-04420F8DD502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F2DD24B-6DFE-4BC8-8C98-202E47345DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2DD24B-6DFE-4BC8-8C98-202E47345DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2DD24B-6DFE-4BC8-8C98-202E47345DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2DD24B-6DFE-4BC8-8C98-202E47345DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B62DAD-FCBD-43A7-8FA1-EA81AFAFFEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B62DAD-FCBD-43A7-8FA1-EA81AFAFFEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B62DAD-FCBD-43A7-8FA1-EA81AFAFFEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B62DAD-FCBD-43A7-8FA1-EA81AFAFFEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D6412F-0126-4898-A7E5-04420F8DD502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D6412F-0126-4898-A7E5-04420F8DD502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D6412F-0126-4898-A7E5-04420F8DD502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D6412F-0126-4898-A7E5-04420F8DD502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6EA9871-0204-4920-AFEB-DC592D8713F4}
+	EndGlobalSection
+EndGlobal
